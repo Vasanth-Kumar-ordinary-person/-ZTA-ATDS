@@ -25,20 +25,6 @@ ZTA-ATDS is a lightweight, AI-based anomaly detection system designed to detect 
 
 ---
 
-## 📁 Project Structure
-
-zta-atds/
-├── app/
-│ ├── main.py # FastAPI entrypoint
-│ ├── routes/anomaly.py # Inference API
-│ ├── models/autoencoder.py# Autoencoder model
-│ ├── utils/preprocessing.py
-│ └── config.py
-├── train/train_model.py # PyTorch training script
-├── data/logs.csv # Dummy logs for training
-├── model.pt # Trained model
-├── requirements.txt
-└── README.md
 
 
 
