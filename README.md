@@ -39,8 +39,7 @@ python -m venv venv
 venv\Scripts\activate        # On Windows
 pip install -r requirements.txt
 🧪 Training the Model
-bash
-Copy code
+
 python -m train.train_model
 This trains the autoencoder using data/logs.csv and saves the model as model.pt.
 
@@ -94,8 +93,7 @@ MIT License
 📬 Contact
 For feedback, questions, or collaborations, feel free to reach out via LinkedIn or GitHub.
 
-markdown
-Copy code
+
 
 ---
 
