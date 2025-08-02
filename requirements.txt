@@ -4,3 +4,8 @@ pandas
 torch
 scikit-learn
 shap
+websockets
+python-multipart
+asyncio-mqtt
+redis
+celery
